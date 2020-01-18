@@ -1,12 +1,4 @@
-Example template to use Conda + Docker for reproducible, easy to deploy models.
-
-Blog post goes into more detail - find it here:
-
-https://binal.pub/2018/10/data-science-with-docker-and-conda/
-
-#### How to Use This All
-
-As an example - here's my normal development process. Using it I can get from development to production with little friction, knowing that my code will work as expected, and that it won't negatively affect other processes on the production server.
+Conda + Docker for reproducible, easy to deploy models.
 
 ##### Developing and Packaging
 
