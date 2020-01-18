@@ -63,7 +63,7 @@ datashape==0.5.4
 decorator==4.4.1
 defusedxml==0.6.0
 distributed==2.9.3
-Django==2.2.5
+Django==2.2.9
 docutils==0.14
 entrypoints==0.3
 enum-compat==0.0.3
@@ -211,7 +211,6 @@ pyasn1-modules==0.2.4
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
-pycrypto==2.6.1
 pycurl==7.43.0.2
 pydeck==0.2.0
 PyDispatcher==2.0.5
